@@ -9,7 +9,8 @@ The dataset comes from **Alex The Analyst Bootcamp Series** and has been process
 ## ⚙️ Technologies Used  
 - **Database:** MySQL  
 - **Skills:** Data Cleaning, SQL Queries, Aggregations, Window Functions , CTE's
-- **Tools:** MySQL Workbench  
+- **Tools:** MySQL Workbench, Git & GitHub to push to Remote Repo! Why not?
+
 
 ## 🚀 Project Workflow  
 This project is divided into two main parts:  
